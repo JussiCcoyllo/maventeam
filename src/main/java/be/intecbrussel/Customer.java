@@ -10,7 +10,7 @@ import lombok.With;
 
 public class Customer {
     private String name;
-    private int cardNumber;
+    private long cardNumber;
     private double balance;
     private int pinCode;
 
