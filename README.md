@@ -7,7 +7,9 @@ This following repo contains a project that allows a user to keep track of ATM p
 Pseudocode:
 
 // 1. Lees de gebruiker invoer
+
 // - CardNumber
+
 // - PinCode
 
 
